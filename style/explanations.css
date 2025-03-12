@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box
+}
+@font-face {
+    font-family: vazir;
+    src: url(../font/Vazir.woff);
+}
+body {
+    font-family: vazir;
+    background-color: black;
+}
+.pro {
+    color: #ad1111;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+.color:hover {
+    color: aliceblue;
+}
+.color {
+    color: #89ad11;
+}
+#color {
+    color: rgb(0, 114, 214);
+    font-size: small;
+    font-weight: bold;
+}
+#color1 {
+    margin-right: 30px;
+    margin-top: 30px;
+    font-size: 30px;
+    color: white;
+    display: inline;
+
+}
+#learn {
+    color: rgb(188, 0, 0);
+    text-decoration: none;
+    font-size:xx-large;
+    width: 243px;
+    height: 50px;
+    text-align: center;
+    border: 3px solid ;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.godfather {
+    width: 100%;
+    background-image: url(../image/godfather.jpeg);
+    background-size: 100%;
+    margin: 70px auto;
+    border: 8px solid #9d1212;
+    outline: 15px solid #313131;
+    padding: 30px;
+}
+h2 {
+    margin-right: 430px;
+    margin-top: 10px;
+    font-size: 40px;
+    color: white;
+    display: inline;
+}
+p {
+    color: white;
+    font-size: x-large;
+    text-align: justify;
+}
+.mafia {
+    color: #ad1111;
+    font-size: 25px;
+}
+.citizen {
+    color: rgb(13, 13, 212);
+    font-size: 25px;
+}
+.free {
+    color: yellow;
+    font-size: 25px;
+}
+.zodiac {
+    width: 100%;
+    background-image: url(../image/hitman.jpg);
+    background-size: 90%;
+    margin: 70px auto;
+    border: 8px solid #9d1212;
+    outline: 15px solid #313131;
+    padding: 30px;
+}
+.takavar {
+    width: 100%;
+    background-image: url(../image/takavar.jpg);
+    background-size: 90%;
+    margin: 70px auto;
+    border: 8px solid #9d1212;
+    outline: 15px solid #313131;
+    padding: 30px;
+}
+.hitler {
+    width: 100%;
+    background-image: url(../image/hitler.jpg);
+    background-size: 90%;
+    margin: 70px auto;
+    border: 8px solid #9d1212;
+    outline: 15px solid #313131;
+    padding: 30px;
+}
+.secret {
+    width: 100%;
+    background-image: url(../image/army.jpeg);
+    background-size: 90%;
+    margin: 70px auto;
+    border: 8px solid #9d1212;
+    outline: 15px solid #313131;
+    padding: 30px;
+}
+.bazpors {
+    width: 100%;
+    background-image: url(../image/bazpors1.jpg);
+    background-size: 90%;
+    margin: 70px auto;
+    border: 8px solid #9d1212;
+    outline: 15px solid #313131;
+    padding: 30px;
+}
+.details {
+    display: flex;
+    flex-direction: column;
+}
